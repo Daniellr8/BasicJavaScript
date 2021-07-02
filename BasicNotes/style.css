@@ -1,0 +1,27 @@
+.all-browsers {
+    margin: 0;
+    padding: 5px;
+    background-color: rgba(52, 163, 197, 0.507);
+  }
+  
+  .all-browsers > h1, .browser {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .browser {
+    background: white;
+  }
+  
+  .browser > h2, p {
+    margin: 4px;
+    font-size: 90%;
+  }
+  aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style:oblique;
+    background-color: rgb(68, 181, 209);
+  }
